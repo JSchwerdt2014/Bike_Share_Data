@@ -2,6 +2,8 @@ import time
 import pandas as pd
 import numpy as np
 
+#this program lets you interact with bikeshare data from different cities
+
 CITY_DATA = { 'chicago': '._chicago.csv',
               'new york city': '._new_york_city.csv',
               'washington': '._washington.csv' }
