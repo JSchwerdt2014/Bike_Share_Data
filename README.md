@@ -10,7 +10,7 @@ Python Bike Share Data
 Project to about bike share data, lets you explore bike share data through an interactive python program
 
 ### Files used
-python_bikeshare_project
+python_bikeshare_project,  new_york_city.csv,  washington.csv, chicago.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
